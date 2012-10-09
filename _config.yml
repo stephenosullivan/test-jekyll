@@ -10,8 +10,8 @@ pygments: true
 # so be sure to set them if your theme uses them.
 #
 title : My blog
-tagline: Site Tagline
-author :
+tagline: Some ramblings
+author : Stephen O'Sullivan
   name : Stephen O'Sullivan
   email : blah@email.test
   github : stephenosullivan
