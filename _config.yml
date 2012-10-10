@@ -9,7 +9,7 @@ pygments: true
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
 #
-title : My blog
+title : "My blog"
 tagline: Some ramblings
 author : Stephen O'Sullivan
   name : Stephen O'Sullivan
