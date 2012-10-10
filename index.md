@@ -18,7 +18,7 @@ In `_config.yml` remember to specify your own data:
     author : Stephen O Sullivan
       name : Stephen O Sullivan
       email : blah@email.test
-      github : username
+      github : stephenosullivan
       twitter : username
 
 The theme should reference these variables whenever needed.
