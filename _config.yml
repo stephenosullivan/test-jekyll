@@ -12,14 +12,14 @@ pygments: true
 title : My blog
 tagline: Some ramblings
 author : Stephen
-  name : name
-  email : blah@email.test
-  github : stephenosullivan
+name : stephen
+email : blah@email.test
+github : stephenosullivan
 #  twitter : username
 #  feedburner : feedname
-  googleplus: osullisg	
+googleplus: osullisg	
   # Whatever you specify for the linkedin option will be placed after `www.linkedin.com/in/`
-  linkedin: stephengosullivan
+linkedin: stephengosullivan
 
 
 # The production_url is only used when full-domain names are needed
